@@ -1,0 +1,22 @@
+button {
+  padding: 0.5rem 1.5rem;
+  background-color: dodgerblue;
+  color: #fff;
+  border-radius: 5px;
+  margin: 0 auto;
+  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  font-family: monospace;
+}
+h3 {
+  font-family: monospace;
+}
+
+div {
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
