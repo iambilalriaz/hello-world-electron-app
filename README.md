@@ -7,5 +7,5 @@
 ## Running the app:
 
 ```bash
-./scripts.sh
+./scripts/run.sh
 ```
